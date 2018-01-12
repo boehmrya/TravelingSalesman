@@ -15,7 +15,7 @@ import java.util.*;
 import java.io.*;
 
 
-public class hw8 {
+public class TravelingSalesman {
     
     // Fields for Graph object
     public int V; // number of vertices in graph
